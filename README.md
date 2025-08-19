@@ -1,4 +1,4 @@
-# Custom-DWA-Planner
+# DWA-Planner
 
 OVERVIEW
 
